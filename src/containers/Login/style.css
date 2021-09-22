@@ -1,0 +1,11 @@
+  
+.login-container {
+    text-align: center;
+    margin: 100px auto;
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+    padding: 100px 0;
+    box-shadow: 1px 1px 4px 2px #ccc;
+    border: 1px solid #ccc;
+}
